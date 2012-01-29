@@ -1,17 +1,14 @@
 {
   "name": "bootstrap-stylus",
   "description": "Twitter Bootstrap CSS framework ported to stylus",
-  "homepage": "https://github.com/shomeya/bootstrap-stylus",
+  "homepage": "http://github.com/dz0ny/bootstrap-stylus",
   "keywords": ["server", "stylus"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/shomeya/bootstrap-stylus.git"
+    "url": "git://github.com/dz0ny/bootstrap-stylus.git"
   },
   "author": "Michael Prasuhn <mike@mikeyp.net>",
   "main" : "./lib",
-  "scripts" : { 
-    "test" : "node test/test.js" 
-    },
   "directories": {
     "lib": "."
   },
